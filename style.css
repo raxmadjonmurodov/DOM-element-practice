@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+button{
+    padding: 10px;
+}
+
+#square{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+#text{
+    font-size: 12px;
+}
+
+#secret{
+    display: none;
+}
+
+#circle{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 50%;
+}
+
+#lamp{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border-radius: 50%;
+}
+
+#animal,
+#photo{
+    width: 300px;
+    height: 200px;
+    background-color: lightgray;
+}
